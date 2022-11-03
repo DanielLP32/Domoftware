@@ -85,6 +85,17 @@ h1 {
 	font-family: 'Cherry Swash', cursive;
 }
 
+h2 {
+	text-align: center;
+	margin: 50px 0 50px;
+	text-align: center;
+	font-size: 25px;
+	color: #ecf0f1;
+	text-shadow: 2px 2px 4px #000000;
+	font-family: 'Cherry Swash', cursive;
+}
+
+
 p {
     position: absolute;
     bottom: 20px;
@@ -100,13 +111,7 @@ span {
 }
 
 
-img{
 
-	background-repeat: no-repeat;
-    background-position: 50%;
-    border-radius: 50%;
-    background-size: 100% auto;
-}
 
 marquee{
 	color: #ecf0f1;
@@ -117,3 +122,23 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 font-size:30px;
 
   }
+
+  body{
+    
+    background: url(imagenes/fondo.jpg);   
+   
+}
+
+div.avatar {
+
+	 height: 280px;
+	 width: 600px;
+    border-radius: 100px;
+	 background-size: 100% auto;
+
+}
+
+script{
+	text-align: center;
+	margin: 40px 0 40px;
+}
